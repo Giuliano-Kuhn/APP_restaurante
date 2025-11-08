@@ -1,7 +1,7 @@
 # APP Restaurante
 
 Esta aplicación web en un proyecto para entregar como final de etapa de una materia de la Universidad siglo XXI.
-La aplicacion es principalmente para la gestión de un restaurante, desarrollada en Java(servlets), con MySQL, y corriendo en un XAMPP, todos requisitos especificos de la entrega. 
+La aplicacion es principalmente para la gestión de un restaurante, desarrollada en Java(servlets), con MySQL, y corriendo en un XAMPP, todos requisitos específicos de la entrega. 
 Principalmente lo que hace es permitir mostrar el menú, realizar y gestionar pedidos con interfaz gráfica y conexión a base de datos. 
 
 Los lenguajes utilizados son:
