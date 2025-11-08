@@ -18,8 +18,6 @@ Ese pedido se guarda en una base de datos, se le asignaria a un mozo ordenadamen
 Una vez este preparado el chef "marcaria" como listo y uno de los mozos lo llevaria a la mesa.
 Mientrastanto los pedidos se podrian utilizar tambien en la caja para llevar el conteo y poder luego cobrar a los comenzales, sus ordenes.
 
-## Instalación
-
 
 ## Funcionalidades principales
 - Mostrar menu del restaurante
